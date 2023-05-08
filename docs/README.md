@@ -18,6 +18,12 @@
 何をしても楽しめるタイプなので、特にジョブタイトルにはこだわりがありません。たまに趣味程度で水族館にイラストを提供したり、ライターとして記事寄稿をすることもあります。
 
 ---
+## 業務経験
+ポートフォリオを参照
+
+<a href="https://www.figma.com/proto/UoPCXHFjzYxjDXJt7yY7Gy/About-Sachiho-Imi?page-id=0%3A1&node-id=2%3A227&viewport=76%2C56%2C0.1114736869931221&scaling=scale-down"><img width="100%" alt="ポートフォリオ" src="/img/honban0.png"></a>
+
+---
 ## 経験のある業界ドメイン
 - エンターテインメント
 - 人材
@@ -34,11 +40,6 @@
   - コミュニケーション能力がそこそこあるところ
   - 情報の整理と言語化ができるところ
   - ストレス負荷が高まりすぎる前にどうにかするところ
----
-## 業務経験
-ポートフォリオを参照
-
-<a href="https://www.figma.com/proto/UoPCXHFjzYxjDXJt7yY7Gy/About-Sachiho-Imi?page-id=0%3A1&node-id=2%3A227&viewport=76%2C56%2C0.1114736869931221&scaling=scale-down"><img width="100%" alt="ポートフォリオ" src="/img/honban0.png"></a>
 
 ---
 ## 経歴
