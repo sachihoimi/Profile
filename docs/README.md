@@ -28,13 +28,7 @@
 - エンターテインメント
 - 人材
 - 通信
----
 
-## 経験のある環境
-  - iOS (Swift)
-  - Android (Kotlin)
-  - OS共通（React Native / Flutter）
-  - WEB (Ruby on Rails / Vue.js)
 ---
 ## 強いところ
   - コミュニケーション能力がそこそこあるところ
@@ -163,6 +157,14 @@
 - Google Analytics / Datastudio
 - Redash
 - Hotjar
+
+---
+
+## 経験のある環境
+  - iOS (Swift)
+  - Android (Kotlin)
+  - OS共通（React Native / Flutter）
+  - WEB (Ruby on Rails / Vue.js)
 
 ---
 ## 業務外活動
