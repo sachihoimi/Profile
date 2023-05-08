@@ -7,7 +7,6 @@
 |氏名|伊美沙智穂|
 |Twitter|[ムラキ](https://twitter.com/u_vf3)|
 |note|[ムラキ](https://note.com/u_vf3)|
-|Github|[sachihoimi](https://github.com/sachihoimi)|
 
 ---
 ## 直近の仕事
